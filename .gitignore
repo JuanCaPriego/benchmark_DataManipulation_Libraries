@@ -1,0 +1,5 @@
+venv/
+Data_extracted/
+Data/
+.csv
+.zip
