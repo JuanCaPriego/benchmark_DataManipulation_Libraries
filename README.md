@@ -10,3 +10,9 @@ The libraires selected for testing are:
 
 ## Expected results
 It is expected to obtain graphs for each test showing the speed performance and a final recopilation. This in order to provide a useful index on which libreray fits best some functionalities like analytic procedures or register augmentation.
+
+## Future Work
+- Add Pyspark to the benchmark
+- Add Vaex
+- Add Ibis
+- Add Dask
