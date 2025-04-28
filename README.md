@@ -16,3 +16,19 @@ It is expected to obtain graphs for each test showing the speed performance and 
 - Add Vaex
 - Add Ibis
 - Add Dask
+
+## Results:
+### Reading Speed
+![alt text](images/reading.png)
+### Increment dataset vertical length
+![alt text](images/population.png)
+### Data grouping speed
+![alt text](images/grouping.png)
+### Data sorting speed
+![alt text](images/sorting.png)
+### Data filtering speed
+![alt text](images/filtering.png)
+### Memory usage while incrementing dataset size
+![alt text](images/memory.png)
+### Data offloading into parquet file speed
+![alt text](images/offload.png)
